@@ -4,7 +4,7 @@
         "types": [
             "node",
             "webdriverio/async",
-            "@wdio/mocha-framework",
+            "@wdio/cucumber-framework",
             "expect-webdriverio"
         ],
         "target": "es2019"
