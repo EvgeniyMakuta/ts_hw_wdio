@@ -9,7 +9,6 @@ export const elements = {
     ...search
 }
 
-
 class HomePage {
 
     public async search(text: string): Promise<void> {
